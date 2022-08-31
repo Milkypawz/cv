@@ -34,16 +34,16 @@ hr {
 	width: 5%;
 }
 
+th {
+	color: #FF6363;
+}
+
 td {
 	color: #FAF5E4;
 }
 
 .text {
 	color: #FAF5E4;
-
-th {
-	color: #FF6363;
-}
 
 p {
 	color: #FAF5E4;
